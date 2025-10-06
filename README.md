@@ -1,16 +1,34 @@
-## Hi there 👋
+🌟 About Me
 
-<!--
-**tusharlg6/tusharlg6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I’m Tushar L G, a passionate Computer Science Engineer (DevOps specialization) from 🇮🇳 Presidency University, Bangalore.
+I’m deeply fascinated by 🤖 Agentic AI, 🎨 Generative AI, and ⚙️ DevOps, aiming to build intelligent, scalable, and human-centered systems that push technology forward. 🚀
 
-Here are some ideas to get you started:
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖐️ Contactless UI for Surgeons – Built real-time gesture recognition using Python + OpenCV + MediaPipe for hands-free surgical interaction. 🏥
+
+🥗 NutriFit – IoT + Blockchain nutrition tracker powered by Web3.js & AR/VR modules. 🌱
+
+🌿 Smart Ecotourism Platform – Sustainable travel app integrating IoT, AR.js, and Firebase for immersive green experiences. 🌎
+
+🧩 Tech Stack
+
+💻 Languages: Python 🐍 | Java ☕ | HTML 🌐 | CSS 🎨
+🛠️ Tools & Tech: Git 🧭 | GitHub 🐙 | Docker 🐳 | Linux 🐧 | Arduino ⚡ | Raspberry Pi 🍓
+📚 Domains: DevOps 🔁 | MLOps 🤖 | GenAI 🧠 | Frontend Development 💻
+
+🌍 Beyond Code
+
+👨‍🏫 Technical Mentor – Guiding peers in AI, IoT, and automation projects.
+
+🤖 Robotics Enthusiast – Active member of Vikasana Robotics Sector at Presidency University.
+
+🎤 Public Speaker – Love sharing tech ideas and inspiring innovation! ✨
+
+🔗 Let’s Connect
+
+📧 Email: tushar94490@gmail.com
+
+💼 LinkedIn
+
+💻 GitHub
