@@ -1,6 +1,6 @@
 🌟 About Me
 
-Hey there! 👋 I’m Tushar L G, a passionate Computer Science Engineer (DevOps specialization) from 🇮🇳 Presidency University, Bangalore.
+Hey there! 👋 I’m Tushar L G, a passionate Computer Science Engineer (DevOps specialization) from Bangalore.
 I’m deeply fascinated by 🤖 Agentic AI, 🎨 Generative AI, and ⚙️ DevOps, aiming to build intelligent, scalable, and human-centered systems that push technology forward. 🚀
 
 🚀 Featured Projects
