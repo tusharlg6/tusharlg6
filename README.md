@@ -1,34 +1,89 @@
-🌟 About Me
+<!-- Banner / Intro -->
+<div align="center">
+  <h1>Hi, I'm <strong>Tushar L G</strong> 👋</h1>
+  <p>
+    <strong>Computer Science Engineer (Software Engineering & DevOps)</strong> <br/>
+    Passionate about .NET • DevOps • Machine Learning • Full-Stack Engineering
+  </p>
+</div>
 
-Hey there! 👋 I’m Tushar L G, a passionate Computer Science Engineer (DevOps specialization) from Bangalore.
-I’m deeply fascinated by 🤖 Agentic AI, 🎨 Generative AI, and ⚙️ DevOps, aiming to build intelligent, scalable, and human-centered systems that push technology forward. 🚀
+---
 
-🚀 Featured Projects
+## 🌟 About Me
+I'm a results-driven Computer Science Engineer from Bangalore, specializing in **Software Engineering** and **DevOps**.  
+I have a strong foundation in **.NET, SQL, OOP, CI/CD, Agile**, and scalable solution design.
 
-🖐️ Contactless UI for Surgeons – Built real-time gesture recognition using Python + OpenCV + MediaPipe for hands-free surgical interaction. 🏥
+I enjoy building systems that are clean, maintainable, and user-centric — whether it's deep learning pipelines, mobile health apps, or full-stack web solutions.  
+Collaboration, problem-solving, and continuous learning define my approach to engineering.
 
-🥗 NutriFit – IoT + Blockchain nutrition tracker powered by Web3.js & AR/VR modules. 🌱
+---
 
-🌿 Smart Ecotourism Platform – Sustainable travel app integrating IoT, AR.js, and Firebase for immersive green experiences. 🌎
+## 🚀 Featured Projects
 
-🧩 Tech Stack
+### 👁️ **Eye-Gaze Guided Lesion Segmentation**
+**Tech:** PyTorch, OpenCV, Streamlit  
+Designed a UNet-based deep learning pipeline for breast ultrasound imaging by integrating clinician eye-tracking data.  
+Enhanced interpretability using **Grad-CAM** and built a **real-time visualization dashboard**.
 
-💻 Languages: Python 🐍 | Java ☕ | HTML 🌐 | CSS 🎨
-🛠️ Tools & Tech: Git 🧭 | GitHub 🐙 | Docker 🐳 | Linux 🐧 | Arduino ⚡ | Raspberry Pi 🍓
-📚 Domains: DevOps 🔁 | MLOps 🤖 | GenAI 🧠 | Frontend Development 💻
+---
 
-🌍 Beyond Code
+### 💊 **MediBesti – Mobile Health Assistant**
+**Tech:** Flutter, Firebase, Google ML Kit  
+OCR-powered prescription reader, personalized reminders, allergy alerts, and secure data storage.  
+Implemented real-time doctor chat and medication intelligence.
 
-👨‍🏫 Technical Mentor – Guiding peers in AI, IoT, and automation projects.
+---
 
-🤖 Robotics Enthusiast – Active member of Vikasana Robotics Sector at Presidency University.
+### 🥗 **NutriFit – Fitness & Nutrition Tracker**
+**Tech:** HTML, CSS, JavaScript  
+Built a responsive web app to track nutrition and workouts with optimized UI and smooth performance.
 
-🎤 Public Speaker – Love sharing tech ideas and inspiring innovation! ✨
+---
 
-🔗 Let’s Connect
+## 🧩 Tech Stack
 
-📧 Email: tushar94490@gmail.com
+### **Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,java,mysql" />
+</p>
 
-💼 LinkedIn: https://www.linkedin.com/in/tusharlg?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### **Frameworks & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,git,docker,jenkins,linux" />
+</p>
+
+### **Web & Testing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <br/>
+  <strong>Selenium • JUnit</strong>
+</p>
+
+### **Core Concepts**
+<p align="center">
+  <strong>OOP • SQL • CI/CD • Debugging • Documentation • Agile</strong>
+</p>
+
+---
+
+## 🌍 Beyond Code
+- **Technical Mentor:** Guided peers in Git workflows, automation, debugging, and testing  
+- **Vikasana Robotics Sector:** Built IoT automation using Raspberry Pi & Arduino  
+- **Smart India Hackathon 2024 – Zonal Qualifier:** Delivered scalable prototypes under Agile sprints  
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/tusharlg6"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/tusharlg"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+</p>
+
+📧 Email: **tushar94490@gmail.com**
+
+---
 
 
+<div align="center">
+  <p>✨ Thanks for visiting my profile! ✨</p>
+</div>
