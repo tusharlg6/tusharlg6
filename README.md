@@ -3,7 +3,7 @@
   <h1>Hi, I'm <strong>Tushar L G</strong> 👋</h1>
   <p>
     <strong>Computer Science Engineer (Software Engineering & DevOps)</strong> <br/>
-    Passionate about .NET • DevOps • Machine Learning • Full-Stack Engineering
+    Passionate about DevOps • Machine Learning • Full-Stack Engineering
   </p>
 </div>
 
